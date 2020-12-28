@@ -1,0 +1,4 @@
+﻿  game.cpp
+  view.cpp
+  正在產生程式碼...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: 模組電腦類型 'x64' 與目標電腦類型 'x86' 衝突
